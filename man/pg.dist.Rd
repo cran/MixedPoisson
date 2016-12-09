@@ -6,7 +6,7 @@
 Poisson-Gamma Distribution (Negative-Binomial) 
 }
 \description{
-The function fits a mixed Poisson distribution, in which the random parameter follows Gamma distribution (the negative-binomial distribution). As the method of estimation Expectation-maximization algorithm is used.
+The function fits a mixed Poisson distribution, in which the random parameter follows Gamma distribution (the negative-binomial distribution). As teh method of estimation Expectation-maximization algorithm is used.
 In M-step the analytical formulas taken from [Karlis, 2005] are applied. 
 }
 

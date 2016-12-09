@@ -5,8 +5,8 @@
 Poisson-Lindley Distribution
 }
 \description{
-The function fits a mixed Poisson distribution, in which the random parameter follows Lindley distribution. As the method of estimation Expectation-maximization algorithm is used.
-In M-step the analytical formulas taken from [Karlis, 2005] are applied. 
+The function fits a mixed Poisson distribution, in which the random parameter follows Lindley distribution. As teh method of estimation Expectation-maximization algorithm is used.
+
 }
 \usage{
 pl.dist(variable, p.start, epsylon)
